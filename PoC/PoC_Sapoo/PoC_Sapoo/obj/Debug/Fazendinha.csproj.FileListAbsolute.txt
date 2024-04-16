@@ -1,0 +1,11 @@
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\bin\Debug\Fazendinha.exe.config
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\bin\Debug\Fazendinha.exe
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\bin\Debug\Fazendinha.pdb
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\obj\Debug\Fazendinha.csproj.AssemblyReference.cache
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\obj\Debug\Fazendinha.FormPrincipal.resources
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\obj\Debug\Fazendinha.Properties.Resources.resources
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\obj\Debug\Fazendinha.Venda.resources
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\obj\Debug\Fazendinha.csproj.GenerateResource.cache
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\obj\Debug\Fazendinha.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\obj\Debug\Fazendinha.exe
+C:\Users\Mateus Miranda\source\repos\Fazendinha\Fazendinha\obj\Debug\Fazendinha.pdb
