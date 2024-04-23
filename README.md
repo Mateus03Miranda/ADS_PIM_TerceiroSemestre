@@ -20,5 +20,5 @@
 - Desenvolver o Diagrama de Classe
 - Desenvolver a tela de protótipo do Cliente
 
-### É possível ver a planilha das sprints através deste [Link](https://github.com/Mateus03Miranda/ADS_PIM_TerceiroSemestre/tree/main/SCRUM)
+### É possível ver a planilha das sprints através deste [Link](https://github.com/Mateus03Miranda/ADS_PIM_TerceiroSemestre/blob/main/SCRUM/Planilha%20de%20Sprints.xlsx)
 #
