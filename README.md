@@ -5,7 +5,7 @@
 
 #
 ### Abaixo, é possível visualizar o gráfico Burndown, que representa o desenvolvimento dessas tarefas durante a semana:
-![Gráfico Burndown](https://github.com/Mateus03Miranda/ADS_PIM_TerceiroSemestre/blob/main/SCRUM/grafico de Burndown_2.png)
+![Gráfico Burndown](https://github.com/Mateus03Miranda/ADS_PIM_TerceiroSemestre/blob/main/SCRUM/Burndown_2.png)
 > [!IMPORTANT]
 > O gráfico contempla os dias 03, 04 e 05, pois são os únicos dias que o time tem para atuar no projeto.
 #
