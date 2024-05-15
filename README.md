@@ -4,5 +4,5 @@
 ### Durante a semana da Sprint 5, foram realizados 2 tarefas, sendo elas compostas pelo desenvolvimento do protótipo da tela de produto e o início da PoC.
 
 
-### É possível ver a planilha das sprints através deste [Link](https://github.com/Mateus03Miranda/ADS_PIM_TerceiroSemestre/blob/main/SCRUM/Planilha%20de%20Sprints.xlsx)
+### É possível ver a planilha das sprints através deste [Nicolas](https://github.com/Mateus03Miranda/ADS_PIM_TerceiroSemestre/blob/main/SCRUM/Planilha%20de%20Sprints.xlsx)
 #
