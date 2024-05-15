@@ -4,7 +4,7 @@
 ### Abaixo é possível encontrar o link das sprints:
 
 
- É possível ver a planilha das sprints clicando na Sprint desejada:
+ É possível ver a planilha das sprints clicando na Sprint desejada abaixo:
 
 ### [Sprint 1](https://github.com/Mateus03Miranda/ADS_PIM_TerceiroSemestre/tree/main/Sprint1) 
 ### [Sprint 2](https://github.com/Mateus03Miranda/ADS_PIM_TerceiroSemestre/tree/main/Sprint2)
